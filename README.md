@@ -3,8 +3,9 @@
 Basic node api server that uses express, mongoose, etc.
 
 ```sh
-git clone
-npm install
+git clone https://github.com/dhulihan/node-api && \
+cd node-api && \
+npm install && \
 npm start 
 ```
 
