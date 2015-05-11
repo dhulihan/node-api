@@ -2,12 +2,16 @@
 
 Basic node api server that uses express, mongoose, etc.
 
+## Intall
+
 ```sh
 git clone https://github.com/dhulihan/node-api && \
 cd node-api && \
 npm install && \
 npm start 
 ```
+
+* Make sure you've created your mongo db specified in `server.js`. Default db is `node_api`.
 
 ## Postman
 
